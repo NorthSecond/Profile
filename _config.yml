@@ -5,6 +5,10 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+# Baisc Settings
+encoding: utf-8
+url: 'https://northsecond.github.io/Profile'
+
 # Site Settings
 title                    : "Yifei Yang"
 description              : "An undergraduate student in the School of Software Engineering, Sun Yat-sen University, Grade 2020. Majoring in software engineering."
