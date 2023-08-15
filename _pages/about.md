@@ -19,7 +19,7 @@ redirect_from:
 
 An undergraduate student in the School of Software Engineering, Sun Yat-sen University, Grade 2020. Majoring in software engineering, A Student Member in CCF.
 
-My research interests include *Operating System* and *Intelligence Software Engineering*, and I also have exploration experiences in the area of Trustworthy Artificial Intelligence and AIGC. Additionally, I have some backend development experience, and have participated in the maintenance of some open source projects on <a herf="https://github.com/NorthSecond/">GitHub</a>.
+My research interests include *Operating System* and *Intelligence Software Engineering*, and I also have exploration experiences in the area of Trustworthy Artificial Intelligence and AIGC. Additionally, I have some backend development experience, and have participated in the maintenance of some open source projects on <a href="https://github.com/NorthSecond/" target="_blank" rel="nofollow">GitHub</a>.
 
 You can get an one-page version of my CV writed in Chinese <a href="./assets/pdf/杨翼飞_个人简历.pdf" target="_blank" rel="nofollow">here</a>.
 
