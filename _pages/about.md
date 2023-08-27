@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-An undergraduate student in the School of Software Engineering, Sun Yat-sen University, Grade 2020. Majoring in software engineering, A Student Member in CCF.
+An undergraduate student in the School of Software Engineering, Sun Yat-sen University, Grade 2020. Majoring in software engineering, A Student Member of CCF.
 
 My research interests include *Operating System* and *Intelligence Software Engineering*, and I also have exploration experiences in the area of Trustworthy Artificial Intelligence and AIGC. Additionally, I have some backend development experience, and have participated in the maintenance of some open source projects on <a href="https://github.com/NorthSecond/" target="_blank" rel="nofollow">GitHub</a>.
 

@@ -11,7 +11,7 @@ url: 'https://yfyang.me'
 
 # Site Settings
 title                    : "Yifei Yang"
-description              : "An undergraduate student in the School of Software Engineering, Sun Yat-sen University, Grade 2020. Majoring in software engineering."
+description              : "An undergraduate student in the School of Software Engineering, Sun Yat-sen University, Grade 2020."
 repository               : "NorthSecond/Profile"
 google_scholar_stats_use_cdn : true
 
@@ -161,7 +161,6 @@ whitelist:
 
 
 # HTML Compression
-# - http://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
