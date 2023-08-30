@@ -25,7 +25,7 @@ You can get an one-page version of my CV writed in Chinese <a href="./assets/pdf
 
 # <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M168 80c-13.3 0-24 10.7-24 24V408c0 8.4-1.4 16.5-4.1 24H440c13.3 0 24-10.7 24-24V104c0-13.3-10.7-24-24-24H168zM72 480c-39.8 0-72-32.2-72-72V112C0 98.7 10.7 88 24 88s24 10.7 24 24V408c0 13.3 10.7 24 24 24s24-10.7 24-24V104c0-39.8 32.2-72 72-72H440c39.8 0 72 32.2 72 72V408c0 39.8-32.2 72-72 72H72zM176 136c0-13.3 10.7-24 24-24h96c13.3 0 24 10.7 24 24v80c0 13.3-10.7 24-24 24H200c-13.3 0-24-10.7-24-24V136zm200-24h32c13.3 0 24 10.7 24 24s-10.7 24-24 24H376c-13.3 0-24-10.7-24-24s10.7-24 24-24zm0 80h32c13.3 0 24 10.7 24 24s-10.7 24-24 24H376c-13.3 0-24-10.7-24-24s10.7-24 24-24zM200 272H408c13.3 0 24 10.7 24 24s-10.7 24-24 24H200c-13.3 0-24-10.7-24-24s10.7-24 24-24zm0 80H408c13.3 0 24 10.7 24 24s-10.7 24-24 24H200c-13.3 0-24-10.7-24-24s10.7-24 24-24z"/></svg> News
 
-- *2023.08*: &nbsp; We won second prize in CSCC 2023.
+- *2023.08*: &nbsp; We won [second prize in CSCC 2023](https://gitlab.eduxiji.net/csc-os/os2023/-/raw/master/2023%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E8%83%BD%E5%8A%9B%E5%A4%A7%E8%B5%9B%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E8%B5%9B%E5%86%85%E6%A0%B8%E8%B5%9B%E9%81%93_%E5%8A%9F%E8%83%BD%E8%B5%9B%E9%81%93-%E7%BD%91%E7%AB%99%E5%8F%91%E5%B8%83%E7%89%88-2.pdf).
 - *2023.05*: &nbsp; We Got the Finalist of the ICM/MCM 2022, which is the top 3% of the 20859 teams.
 
 <!-- # 📝 Publications 
@@ -81,6 +81,8 @@ You can get an one-page version of my CV writed in Chinese <a href="./assets/pdf
 
 # <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M432 64H208c-8.8 0-16 7.2-16 16V96H128V80c0-44.2 35.8-80 80-80H432c44.2 0 80 35.8 80 80V304c0 44.2-35.8 80-80 80H416V320h16c8.8 0 16-7.2 16-16V80c0-8.8-7.2-16-16-16zM0 192c0-35.3 28.7-64 64-64H320c35.3 0 64 28.7 64 64V448c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V192zm64 32c0 17.7 14.3 32 32 32H288c17.7 0 32-14.3 32-32s-14.3-32-32-32H96c-17.7 0-32 14.3-32 32z"/></svg> Projects
 
+- [An Efficient task scheduler for POSIX compliant and SMP systems based on NuttX RTOS](./assets/pdf/CSCC_2023答辩材料.pdf)
+  - This is the project for the CSCC 2023. Based on the open-source real-time operating system NuttX Release v12.0.0, we implemented a symmetric and efficient scheduler that each core maintains its own scheduling sequence with the help of the existing kthread and semaphore support for NuttX's SMP support, and tested it in the simulation environment and on the Sony Spresense real machine respectively. I was responsible for algorithm design and implementation, testing in real environment and defending the results.
 - [TODO List](https://github.com/LeeAnnJ/Todo-list)
   - A simple TODO list web application, written in  Typescript. This is the course design for our Software Engineering Training course, done in groups. I independently completed the design and writing of the back-end and database of the project, and finished the corresponding testing work.
 - [Rust Online Judge](https://github.com/NorthSecond/Rust-OnlineJudge)
