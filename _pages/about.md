@@ -17,15 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-An undergraduate student in the School of Software Engineering, Sun Yat-sen University, Grade 2020. Majoring in software engineering, A Student Member of CCF.
+An undergraduate student in the School of Software Engineering, Sun Yat-sen University, Grade 2020. Majoring in software engineering; A Student Member of CCF.
 
-My research interests include *Operating System* and *Intelligence Software Engineering*, and I also have exploration experiences in the area of Trustworthy Artificial Intelligence and AIGC. Additionally, I have some backend development experience, and have participated in the maintenance of some open source projects on <a href="https://github.com/NorthSecond/" target="_blank" rel="nofollow">GitHub</a>.
+My research interests include *Distributed Systems* and *High Performance Computing*. Additionally, I have some backend development experience, and have participated in the maintenance of some open source projects on <a href="https://github.com/NorthSecond/" target="_blank" rel="nofollow">GitHub</a>.
 
 You can get an one-page version of my CV writed in Chinese <a href="./assets/pdf/杨翼飞_个人简历.pdf" target="_blank" rel="nofollow">here</a>.
 
 # <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><path d="M168 80c-13.3 0-24 10.7-24 24V408c0 8.4-1.4 16.5-4.1 24H440c13.3 0 24-10.7 24-24V104c0-13.3-10.7-24-24-24H168zM72 480c-39.8 0-72-32.2-72-72V112C0 98.7 10.7 88 24 88s24 10.7 24 24V408c0 13.3 10.7 24 24 24s24-10.7 24-24V104c0-39.8 32.2-72 72-72H440c39.8 0 72 32.2 72 72V408c0 39.8-32.2 72-72 72H72zM176 136c0-13.3 10.7-24 24-24h96c13.3 0 24 10.7 24 24v80c0 13.3-10.7 24-24 24H200c-13.3 0-24-10.7-24-24V136zm200-24h32c13.3 0 24 10.7 24 24s-10.7 24-24 24H376c-13.3 0-24-10.7-24-24s10.7-24 24-24zm0 80h32c13.3 0 24 10.7 24 24s-10.7 24-24 24H376c-13.3 0-24-10.7-24-24s10.7-24 24-24zM200 272H408c13.3 0 24 10.7 24 24s-10.7 24-24 24H200c-13.3 0-24-10.7-24-24s10.7-24 24-24zm0 80H408c13.3 0 24 10.7 24 24s-10.7 24-24 24H200c-13.3 0-24-10.7-24-24s10.7-24 24-24z"/></svg> News
 
-- *2023.10*: &nbsp; I will join the School of Computer Science at Sun Yat-sen University in September 2024, as a Professional Master student.
+- *2023.10*: &nbsp; I will join the School of Computer Science at Sun Yat-sen University in September 2024, as a Master student.
 - *2023.08*: &nbsp; We won [second prize in CSCC 2023](https://gitlab.eduxiji.net/csc-os/os2023/-/raw/master/2023%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E8%83%BD%E5%8A%9B%E5%A4%A7%E8%B5%9B%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E8%B5%9B%E5%86%85%E6%A0%B8%E8%B5%9B%E9%81%93_%E5%8A%9F%E8%83%BD%E8%B5%9B%E9%81%93-%E7%BD%91%E7%AB%99%E5%8F%91%E5%B8%83%E7%89%88_1_.pdf).
 - *2023.05*: &nbsp; We Got the [Finalist of the ICM/MCM 2022](https://www.comap-math.com/mcm/2023Certs/2311947.pdf), which is the top 3% of the 20859 teams.
 
@@ -77,7 +77,7 @@ You can get an one-page version of my CV writed in Chinese <a href="./assets/pdf
 
 # <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><path d="M184 48H328c4.4 0 8 3.6 8 8V96H176V56c0-4.4 3.6-8 8-8zm-56 8V96H64C28.7 96 0 124.7 0 160v96H192 320 512V160c0-35.3-28.7-64-64-64H384V56c0-30.9-25.1-56-56-56H184c-30.9 0-56 25.1-56 56zM512 288H320v32c0 17.7-14.3 32-32 32H224c-17.7 0-32-14.3-32-32V288H0V416c0 35.3 28.7 64 64 64H448c35.3 0 64-28.7 64-64V288z"/></svg> Experiences
 
-- *2021.11 - now*, Student Assistant in the Network & Information Center, Sun Yat-sen University.
+- *2021.11 - 2024.06*, Student Assistant in the Network & Information Center, Sun Yat-sen University.
   - Assisting with dealing with various technical network failures in the student living area within the campus.
 
 # <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><path d="M432 64H208c-8.8 0-16 7.2-16 16V96H128V80c0-44.2 35.8-80 80-80H432c44.2 0 80 35.8 80 80V304c0 44.2-35.8 80-80 80H416V320h16c8.8 0 16-7.2 16-16V80c0-8.8-7.2-16-16-16zM0 192c0-35.3 28.7-64 64-64H320c35.3 0 64 28.7 64 64V448c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V192zm64 32c0 17.7 14.3 32 32 32H288c17.7 0 32-14.3 32-32s-14.3-32-32-32H96c-17.7 0-32 14.3-32 32z"/></svg> Projects
